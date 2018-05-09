@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets application="VeprIT Resize Sense" fileVersion="2.0">
+  <preset>
+    <name>Add white borders</name>
+    <type>Fixed width and/or height</type>
+    <width>400</width>
+    <height>400</height>
+    <edgeSize></edgeSize>
+    <maxFileSize></maxFileSize>
+    <megapixels></megapixels>
+    <resolution>300</resolution>
+    <sizeUnit>pixels</sizeUnit>
+    <resolutionUnit>pixels per inch</resolutionUnit>
+    <fileSizeUnit>Megabyte</fileSizeUnit>
+    <fixAspectRatioApproach>Add borders</fixAspectRatioApproach>
+    <largeImageSolution>Add borders</largeImageSolution>
+    <borderStyle>of a solid color:</borderStyle>
+    <borderColor>
+      <r>1.000000</r>
+      <g>0.999974</g>
+      <b>0.999991</b>
+      <a>1.000000</a>
+    </borderColor>
+    <cropStyle>Free</cropStyle>
+    <cropAspectWidth></cropAspectWidth>
+    <cropAspectHeight></cropAspectHeight>
+    <horizontalAlignment>Center</horizontalAlignment>
+    <verticalAlignment>Center</verticalAlignment>
+    <savingPresetID>-1</savingPresetID>
+  </preset>
+</presets>
